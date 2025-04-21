@@ -38,6 +38,9 @@ h2 {
 p {
   text-align: center;
   color: black;
+  #basic > p {
+    font-weight: bold;
+  }
 }
 
 #basic .bold-text {
