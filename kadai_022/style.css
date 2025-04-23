@@ -31,7 +31,7 @@ main {
   text-align: center;
 }
 
-.contens img {
+.contents img {
   margin: 10px 0px;
   width: 70%;
 }
@@ -78,6 +78,6 @@ footer {
       font-size: 25px;
   }
   #parent {
-    flex-direction: row;
+    flex-direction: column;
   }
 }
