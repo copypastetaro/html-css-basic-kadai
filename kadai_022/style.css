@@ -23,7 +23,7 @@ main {
   color: rgb(97,206,249);
 }
 
-.contens {
+.contents {
   border: solid 3px rgb(238,204,204);
   flex-basis: 25%;
   padding: 10px 15px;
@@ -70,7 +70,7 @@ footer {
   text-align: center;
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (max-width: 768px) {
   h2 {
       font-size: 30px;
   }
